@@ -18,7 +18,7 @@ ISC-DHCP-ServerとKeaのMACアドレスによる固定IPの設定に重複がな
 ## ボタン説明
 
 | グループ | ボタン | 意味 |
-+---+---+---
+|---|---|---|
 | Dup Check | isc-conf | ISC-DHCP-Serverの設定ファイルの重複チェック |
 | Dup Check | isc-ldif | ISC-DHCP-ServerのLDAPデータの重複チェック |
 | Dup Check | kea-ldif | Keaの設定ファイルの重複チェック |
